@@ -1,1 +1,1 @@
-hi bro this side sanddep will go di as i have a hackathon.
+hi bro t the name of the directory where you want to clone the repository. If you don't specify this, Git will 
