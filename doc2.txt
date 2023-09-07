@@ -1,1 +1,1 @@
-, you can create branches to isolate different lines of development. The default branch is often called "master" or "main." To create a new branch, use the following commandhalut acha hai tu pana bta
+, you can create branches to isolate different linees to the same lines of code in both branches), Git will prompt you to resolve the conflicts manually. You need to edit the conflicted files, choose which changes to keep, and then commit the res

@@ -1,2 +1,2 @@
-hi bro this side sanddep Branching and merging are essential concepts in Git that allow developers to work on different features, bug fixes, or experiments in parallel and then integrate their changes back into the main codebase. Here's an overview of how branching and merging work in Git:
+his creates a new branch named "new-feature" but does not switch ncepts in Git that allow developers to work on different features, bug fixes, or experiments in parallel and then integrate their changes back into the main codebase. Here's an overview of how branching and merging work in Git:
 
