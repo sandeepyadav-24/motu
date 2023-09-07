@@ -1,1 +1,4 @@
-tempndi wefter cloning, you'll have a complete copy of the repository on your local machine, and you can start working with its files and histkya kr rha hai
+<<<<<<< HEAD
+
+tempndi we wanna have Ys allows multiple developers to work on different features concurrently and merge their work back into the main codebase, ensuring a structured and collaborativg fix within the "new-feature" branch without affecting the mai
+>>>>>>> new-feature

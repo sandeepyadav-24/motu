@@ -1,3 +1,6 @@
-aur is command will clone the "myproject" repository into a directory named "myproject" in your current working directory.
+<<<<<<< HEAD
 
 If you want to specify a different destinatio
+=======
+both branches), Git will prompt you to resolve the conflicts manually. You need to edit the conflicted files, choose which changes to keep, and then commit the res
+>>>>>>> new-feature
