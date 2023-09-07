@@ -1,1 +1,1 @@
-aur bhai kya haal chalut acha hai tu pana bta
+, you can create branches to isolate different lines of development. The default branch is often called "master" or "main." To create a new branch, use the following commandhalut acha hai tu pana bta

@@ -1,1 +1,2 @@
-hi bro this side sanddep will go di as i have a hackathon.
+hi bro this side sanddep Branching and merging are essential concepts in Git that allow developers to work on different features, bug fixes, or experiments in parallel and then integrate their changes back into the main codebase. Here's an overview of how branching and merging work in Git:
+
